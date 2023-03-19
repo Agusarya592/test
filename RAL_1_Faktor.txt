@@ -1,5 +1,5 @@
-Laju	RF_Power(W)
-575	P160
+Laju RF_Power(W)
+575 P160
 565	P180
 600	P200
 725	P220
